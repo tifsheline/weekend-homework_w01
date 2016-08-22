@@ -1,0 +1,12 @@
+#container{
+  width: 800px;
+}
+
+.box{
+  height: 250px;
+  width: 250px;
+  border: 1px solid black;
+  display: inline-block;
+  margin: 5px;
+  float: left;
+}
